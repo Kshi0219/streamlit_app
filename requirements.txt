@@ -3,3 +3,4 @@ scikit-learn
 pyvis
 stvis
 lightgbm
+pycaret
